@@ -18,25 +18,17 @@ You can read Markdown easily in plain text before rendered by HTML.
 
 ![Table](https://res.cloudinary.com/practicaldev/image/fetch/s--4JbB7SY9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/g595slgphyi9lkqz2u18.png)
 
-# Githup 
-#### Githup is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
-#### GitHub, can be divided into the Git, and the Hub. The service includes access controls as well as a number of collaboration features like tools for basic task management and for all projects you handle. GitHub hosts your source code projects in a variety of different programming languages and keeps track of the various changes made to every iteration. So, the “Git” implies the version control system; a tool which allows developers to keep track of the constant revisions to their code. The “Hub” is the community of like-minded individuals who participate. It is all about the collaborative effort of the community, in reviewing, improving, and deriving new ideas from the uploaded code. It’s definitely something worth looking into!
-#### So what are the main benefits of using GitHub?
-1. It makes it easy to contribute to your open source projects
- nearly every open-source project uses GitHub to manage their project.
+#### Table symbol Tables
+#### You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe :
 
-2. Documentation
-By using GitHub, you make it easier to get excellent documentation. Their help section and guides have articles for nearly any topic related to git that you can think of.
+###### First Header | Second Header
+###### ------------ | -------------
+###### Content from cell 1 | Content from cell 2
+###### Content in the first column | Content in the second column
 
-3. Showcase your work
-Are you a developer and wishes to attract recruiters? GitHub is the best tool you can rely on for this. Today, when searching for new recruits for their project, most companies look into the GitHub profiles. If your profile is available, you will have a higher chance of being recruited even if you are not from a great university or college.
 
-4. Markdown
-Markdown allows you to use a simple text editor to write formatted documents. GitHub has revolutionized writing by channeling everything through Markdown: from the issue tracker, user comments, everything. With so many other programming languages to learn for setting up projects, it’s really a big benefit to have your content inputted in a format without having to learn yet another system.
+#### GitHub Flavored Markdown
+#### GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
 
-5. GitHub is a repository
-This was already mentioned before, but it’s important to note, GitHub is a repository.
-What this means that it allows your work to get out there in front of the public. Moreover, GitHub is one of the largest coding communities around right now, so it’s wide exposure for your project.
-
-6. Track changes in your code across versions
-When multiple people collaborate on a project, it’s hard to keep track revisions—who changed what, when, and where those files are stored. GitHub takes care of this problem by keeping track of all the changes that have been pushed to the repository. Much like using Microsoft Word or Google Drive, you can have a version history of your code so that previous versions are not lost with every iteration.
+#### Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as 
+#### references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
