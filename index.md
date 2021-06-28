@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+#                                          growth mindset 
+#### A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
-You can use the [editor on GitHub](https://github.com/BelalElolahi/Reading-Notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### A growth mindset is also the basis for developing aspects of your life that will lead you to your goals, but a growth mindset requires that you put in effort and work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Below you can see the difference between the two mindsets:
+![Mindsets](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=800%2C1000&ssl=1)
+#### Every time I try to stay in a growth mindset through:
+   1. Self-motivation
+   2. accept criticism
+   3. Overcoming obstacles and not despairing
+   4. Learn from the successes of others
+ 
+####  I sometimes say to myself “Self, you need to embrace the growth mindset ,The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**reference** : [growth-mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BelalElolahi/Reading-Notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
