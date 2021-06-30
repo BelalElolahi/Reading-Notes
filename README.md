@@ -7,8 +7,10 @@
 Name of read | Link
 ------------ | -------------
 Mindset | [mindset](https://belalelolahi.github.io/Reading-Notes/Mindset)
-read01 | [Read01](https://belalelolahi.github.io/Reading-Notes/Read:01)
- read02 |  [Read02](https://belalelolahi.github.io/Reading-Notes/Read:02)
+Markdown | [Read01](https://belalelolahi.github.io/Reading-Notes/Read:01)
+ Git |  [Read02](https://belalelolahi.github.io/Reading-Notes/Read:02)
+  Html |  [Read03](https://belalelolahi.github.io/Reading-Notes/Read:03)
+   Java secript |  [Read04](https://belalelolahi.github.io/Reading-Notes/Read:04)
 
 
 
