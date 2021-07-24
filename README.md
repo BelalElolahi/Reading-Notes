@@ -8,13 +8,13 @@ Name of read | Link
 ------------ | -------------
 Mindset | [mindset](https://belalelolahi.github.io/Reading-Notes/Mindset)
 Markdown | [Read01](https://belalelolahi.github.io/Reading-Notes/Read:01)
- Git |  [Read02](https://belalelolahi.github.io/Reading-Notes/Read:02)
-  Html |  [Read03](https://belalelolahi.github.io/Reading-Notes/Read:03)
-   Java secript |  [Read04](https://belalelolahi.github.io/Reading-Notes/Read:04)
-   Operators and Loops |  [Read05](https://belalelolahi.github.io/Reading-Notes/Read:05)
-   CSS |  [Read06](https://belalelolahi.github.io/Reading-Notes/Read:06)
-  JS Functions |  [Read07](https://belalelolahi.github.io/Reading-Notes/Read:07)
-  ### Code 201 Reading Notes
+Git |  [Read02](https://belalelolahi.github.io/Reading-Notes/Read:02)
+Html |  [Read03](https://belalelolahi.github.io/Reading-Notes/Read:03)
+Java secript |  [Read04](https://belalelolahi.github.io/Reading-Notes/Read:04)
+ Operators and Loops |  [Read05](https://belalelolahi.github.io/Reading-Notes/Read:05)
+CSS |  [Read06](https://belalelolahi.github.io/Reading-Notes/Read:06) JS Functions |  [Read07](https://belalelolahi.github.io/Reading-Notes/Read:07)
+
+### Code 201 Reading Notes
 Name of read | Link
 ------------ | -------------
  Introductory HTML and JavaScript| [Read01](https://belalelolahi.github.io/Reading-Notes/Read:1)
