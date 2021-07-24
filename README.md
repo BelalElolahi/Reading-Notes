@@ -30,6 +30,10 @@ HTML Tables, JS Constructor Functions | [Read07]()
 CSS Layout | [Read08]()
 Forms and JS Events | [Read09]()
 JS Debugging | [Read10]()
+Assorted Topics | [Read11]()
+Docs for the HTML | [Read12]()
+Local Storage | [Read13]()
+
 
 
 
