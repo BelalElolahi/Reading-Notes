@@ -25,6 +25,12 @@ HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Read02]()
 HTML Lists, CSS Boxes, JS Control Flow| [Read03]()
 HTML Links, CSS Layout, JS Functions | [Read04]()
 HTML Images, CSS Color & Text | [Read05]()
+JS Object Literals, The DOM | [Read06]()
+HTML Tables, JS Constructor Functions | [Read07]()
+CSS Layout | [Read08]()
+Forms and JS Events | [Read09]()
+JS Debugging | [Read10]()
+
 
 
 
