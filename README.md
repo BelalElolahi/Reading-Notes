@@ -21,7 +21,7 @@ JS Functions |  [Read07](https://belalelolahi.github.io/Reading-Notes/Read:07)
 Name of read | Link
 ------------ | -------------
 Introductory HTML and JavaScript | [Read01](https://belalelolahi.github.io/Reading-Notes/Read:1)
-HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Read02]()
+HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Read02](https://belalelolahi.github.io/Reading-Notes/Read:2)
 HTML Lists, CSS Boxes, JS Control Flow| [Read03]()
 HTML Links, CSS Layout, JS Functions | [Read04]()
 HTML Images, CSS Color & Text | [Read05]()
