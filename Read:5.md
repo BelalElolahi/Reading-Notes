@@ -32,7 +32,10 @@ the color syntax :
 
 
 ![](https://curriculum-content.s3.amazonaws.com/fewds/css-syntax.png)
- ### Text
+ 
+
+### Text
+ 
  CSS text formatting properties is used to format text and style text. 
 CSS text formatting include following properties: 
 
