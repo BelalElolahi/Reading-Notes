@@ -27,7 +27,7 @@ HTML Links, CSS Layout, JS Functions | [Read04](https://belalelolahi.github.io/R
 HTML Images, CSS Color & Text | [Read05](https://belalelolahi.github.io/Reading-Notes/Read:5)
 JS Object Literals, The DOM | [Read06](https://belalelolahi.github.io/Reading-Notes/Read:6)
 HTML Tables, JS Constructor Functions | [Read07](https://belalelolahi.github.io/Reading-Notes/Read:7)
-CSS Layout | [Read08]()
+CSS Layout | [Read08](https://belalelolahi.github.io/Reading-Notes/Read:8)
 Forms and JS Events | [Read09]()
 JS Debugging | [Read10]()
 Assorted Topics | [Read11]()
