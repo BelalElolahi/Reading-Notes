@@ -29,7 +29,7 @@ JS Object Literals, The DOM | [Read06](https://belalelolahi.github.io/Reading-No
 HTML Tables, JS Constructor Functions | [Read07](https://belalelolahi.github.io/Reading-Notes/Read:7)
 CSS Layout | [Read08](https://belalelolahi.github.io/Reading-Notes/Read:8)
 Forms and JS Events | [Read09](https://belalelolahi.github.io/Reading-Notes/Read:9)
-JS Debugging | [Read10]()
+JS Debugging | [Read10](https://belalelolahi.github.io/Reading-Notes/Read:10)
 Assorted Topics | [Read11]()
 Docs for the HTML | [Read12]()
 Local Storage | [Read13]()
