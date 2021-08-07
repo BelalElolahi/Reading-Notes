@@ -30,7 +30,7 @@ HTML Tables, JS Constructor Functions | [Read07](https://belalelolahi.github.io/
 CSS Layout | [Read08](https://belalelolahi.github.io/Reading-Notes/Read:8)
 Forms and JS Events | [Read09](https://belalelolahi.github.io/Reading-Notes/Read:9)
 JS Debugging | [Read10](https://belalelolahi.github.io/Reading-Notes/Read:10)
-Assorted Topics | [Read11]()
+Assorted Topics | [Read11](https://belalelolahi.github.io/Reading-Notes/Read:11)
 Docs for the HTML | [Read12]()
 Local Storage | [Read13]()
 CSS Transforms, Transitions, and Animations  | [Read14a]()
