@@ -31,10 +31,10 @@ CSS Layout | [Read08](https://belalelolahi.github.io/Reading-Notes/Read:8)
 Forms and JS Events | [Read09](https://belalelolahi.github.io/Reading-Notes/Read:9)
 JS Debugging | [Read10](https://belalelolahi.github.io/Reading-Notes/Read:10)
 Assorted Topics | [Read11](https://belalelolahi.github.io/Reading-Notes/Read:11)
-Docs for the HTML | [Read12]()
-Local Storage | [Read13]()
-CSS Transforms, Transitions, and Animations  | [Read14a]()
-What Google Learned About Teams | [Read14b]()
+Docs for the HTML | [Read12](https://belalelolahi.github.io/Reading-Notes/Read:12)
+Local Storage | [Read13](https://belalelolahi.github.io/Reading-Notes/Read:13)
+CSS Transforms, Transitions, and Animations  | [Read14a](https://belalelolahi.github.io/Reading-Notes/Read:14a)
+What Google Learned About Teams | [Read14b](https://belalelolahi.github.io/Reading-Notes/Read:14b)
 
 
 
