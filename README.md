@@ -3,7 +3,7 @@
 
 
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 Name of read | Link
 ------------ | -------------
@@ -16,7 +16,10 @@ Java secript |  [Read04](https://belalelolahi.github.io/Reading-Notes/Read:04)
 CSS |  [Read06](https://belalelolahi.github.io/Reading-Notes/Read:06) 
 JS Functions |  [Read07](https://belalelolahi.github.io/Reading-Notes/Read:07)
 
-### Code 201 Reading Notes
+
+
+
+### Code 201 - Foundations of Software Development
 
 Name of read | Link
 ------------ | -------------
@@ -38,7 +41,10 @@ What Google Learned About Teams | [Read14b](https://belalelolahi.github.io/Readi
 
 
 
-
+### Code 301 - Intermediate Software Development
+Name of read | Link
+------------ | -------------
+Introductory HTML and JavaScript | [Read01](https://belalelolahi.github.io/Reading-Notes/Read301:1)
 
 
 
