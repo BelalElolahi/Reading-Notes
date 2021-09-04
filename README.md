@@ -44,7 +44,7 @@ What Google Learned About Teams | [Read14b](https://belalelolahi.github.io/Readi
 ### Code 301 - Intermediate Software Development
 Name of read | Link
 ------------ | -------------
-Introductory HTML and JavaScript | [Read01](https://belalelolahi.github.io/Reading-Notes/Read301:1)
+Introduction to React and Components | [Read01](https://belalelolahi.github.io/Reading-Notes/Read301:1)
 
 
 
