@@ -45,6 +45,8 @@ What Google Learned About Teams | [Read14b](https://belalelolahi.github.io/Readi
 Name of read | Link
 ------------ | -------------
 Introduction to React and Components | [Read01](https://belalelolahi.github.io/Reading-Notes/Read301:1)
+Parops and State | [Read02](https://belalelolahi.github.io/Reading-Notes/Read301:2)
+
 
 
 
