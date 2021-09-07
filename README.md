@@ -46,6 +46,7 @@ Name of read | Link
 ------------ | -------------
 Introduction to React and Components | [Read01](https://belalelolahi.github.io/Reading-Notes/Read301:1)
 Parops and State | [Read02](https://belalelolahi.github.io/Reading-Notes/Read301:2)
+Passing Functions as Props | [Read03](https://belalelolahi.github.io/Reading-Notes/Read301:3)
 
 
 
