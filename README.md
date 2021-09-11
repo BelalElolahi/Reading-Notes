@@ -49,6 +49,9 @@ Parops and State | [Read02](https://belalelolahi.github.io/Reading-Notes/Read301
 Passing Functions as Props | [Read03](https://belalelolahi.github.io/Reading-Notes/Read301:3)
  React and Forms | [Read04](https://belalelolahi.github.io/Reading-Notes/Read301:4)
   thinking in React( Putting it all together)| [Read05](https://belalelolahi.github.io/Reading-Notes/Read301:5)
+NODE.JS | [Read06](https://belalelolahi.github.io/Reading-Notes/Read301:6)
+  
+
 
 
 
