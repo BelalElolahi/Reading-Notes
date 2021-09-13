@@ -50,6 +50,7 @@ Passing Functions as Props | [Read03](https://belalelolahi.github.io/Reading-Not
  React and Forms | [Read04](https://belalelolahi.github.io/Reading-Notes/Read301:4)
   thinking in React( Putting it all together)| [Read05](https://belalelolahi.github.io/Reading-Notes/Read301:5)
 NODE.JS | [Read06](https://belalelolahi.github.io/Reading-Notes/Read301:6)
+REST | [Read07](https://belalelolahi.github.io/Reading-Notes/Read301:8)
   
 
 
