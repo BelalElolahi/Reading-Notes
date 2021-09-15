@@ -52,7 +52,7 @@ Passing Functions as Props | [Read03](https://belalelolahi.github.io/Reading-Not
 NODE.JS | [Read06](https://belalelolahi.github.io/Reading-Notes/Read301:6)
 REST | [Read07](https://belalelolahi.github.io/Reading-Notes/Read301:7)
 APIs | [Read08](https://belalelolahi.github.io/Reading-Notes/Read301:8)
-  | [Read09](https://belalelolahi.github.io/Reading-Notes/Read301:9)
+  FUNCTIONAL PROGRAMMING| [Read09](https://belalelolahi.github.io/Reading-Notes/Read301:9)
   | [Read10](https://belalelolahi.github.io/Reading-Notes/Read301:10)
   | [Read11](https://belalelolahi.github.io/Reading-Notes/Read301:11)
   | [Read12](https://belalelolahi.github.io/Reading-Notes/Read301:12)
