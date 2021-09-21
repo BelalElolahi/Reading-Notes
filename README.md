@@ -47,18 +47,18 @@ Name of read | Link
 Introduction to React and Components | [Read01](https://belalelolahi.github.io/Reading-Notes/Read301:1)
 Parops and State | [Read02](https://belalelolahi.github.io/Reading-Notes/Read301:2)
 Passing Functions as Props | [Read03](https://belalelolahi.github.io/Reading-Notes/Read301:3)
- React and Forms | [Read04](https://belalelolahi.github.io/Reading-Notes/Read301:4)
-  thinking in React( Putting it all together)| [Read05](https://belalelolahi.github.io/Reading-Notes/Read301:5)
+React and Forms | [Read04](https://belalelolahi.github.io/Reading-Notes/Read301:4)
+thinking in React( Putting it all together)| [Read05](https://belalelolahi.github.io/Reading-Notes/Read301:5)
 NODE.JS | [Read06](https://belalelolahi.github.io/Reading-Notes/Read301:6)
 REST | [Read07](https://belalelolahi.github.io/Reading-Notes/Read301:7)
 APIs | [Read08](https://belalelolahi.github.io/Reading-Notes/Read301:8)
-  FUNCTIONAL PROGRAMMING| [Read09](https://belalelolahi.github.io/Reading-Notes/Read301:9)
-  In memory storage| [Read10](https://belalelolahi.github.io/Reading-Notes/Read301:10)
+FUNCTIONAL PROGRAMMING| [Read09](https://belalelolahi.github.io/Reading-Notes/Read301:9)
+In memory storage| [Read10](https://belalelolahi.github.io/Reading-Notes/Read301:10)
 Mongo and Mongoose | [Read11](https://belalelolahi.github.io/Reading-Notes/Read301:11)
 CRUD ..| [Read12](https://belalelolahi.github.io/Reading-Notes/Read301:12)
 Diversity & Inclusion in the Tech Industry| [Read13](https://belalelolahi.github.io/Reading-Notes/Read301:13)
-
-| [Read14](https://belalelolahi.github.io/Reading-Notes/Read301:14)
+Authentication| [Read14](https://belalelolahi.github.io/Reading-Notes/Read301:14)
+Project Ideas | [Read14a](https://belalelolahi.github.io/Reading-Notes/Read301:14a)
 
 
 
