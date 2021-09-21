@@ -56,6 +56,9 @@ APIs | [Read08](https://belalelolahi.github.io/Reading-Notes/Read301:8)
   In memory storage| [Read10](https://belalelolahi.github.io/Reading-Notes/Read301:10)
 Mongo and Mongoose | [Read11](https://belalelolahi.github.io/Reading-Notes/Read301:11)
 CRUD ..| [Read12](https://belalelolahi.github.io/Reading-Notes/Read301:12)
+Diversity & Inclusion in the Tech Industry| [Read13](https://belalelolahi.github.io/Reading-Notes/Read301:14)
+| [Read12](https://belalelolahi.github.io/Reading-Notes/Read301:14)
+
 
 
 
