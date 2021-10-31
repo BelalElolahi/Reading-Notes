@@ -64,6 +64,17 @@ Project Ideas | [Read14a](https://belalelolahi.github.io/Reading-Notes/Read301:1
 Name of read | Link
 ------------ | ------------- 
 Beginners Guide to Big O | [Read01](https://belalelolahi.github.io/Reading-Notes/Read401:1)
+Testing and Modules | [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:2)
+| [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:3)
+| [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:4)
+| [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:5)
+| [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:6)
+| [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:7)
+| [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:8)
+| [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:9)
+
+
+
 
 
 
