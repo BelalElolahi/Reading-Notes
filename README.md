@@ -68,10 +68,12 @@ Testing and Modules | [Read02](https://belalelolahi.github.io/Reading-Notes/Read
 FileIO & Exceptions| [Read03](https://belalelolahi.github.io/Reading-Notes/Read401:3)
  Topic(Classes and Objects, Thinking Recursively , Pytest Fixtures and Coverage)| [Read04](https://belalelolahi.github.io/Reading-Notes/Read401:4)
 Linked Lists| [Read05](https://belalelolahi.github.io/Reading-Notes/Read401:5)
-| [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:6)
-| [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:7)
-| [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:8)
-| [Read02](https://belalelolahi.github.io/Reading-Notes/Read401:9)
+ Game of Greed 1| [Read06](https://belalelolahi.github.io/Reading-Notes/Read401:6)
+| [Read07](https://belalelolahi.github.io/Reading-Notes/Read401:7)
+| [Read08](https://belalelolahi.github.io/Reading-Notes/Read401:8)
+| [Read09](https://belalelolahi.github.io/Reading-Notes/Read401:9)
+| [Read10](https://belalelolahi.github.io/Reading-Notes/Read401:10)
+| [Read11](https://belalelolahi.github.io/Reading-Notes/Read401:11)
 
 
 
