@@ -5,6 +5,7 @@
 
 ### Code 102 - Intro to Software Development
 
+
 Name of read | Link
 ------------ | -------------
 Mindset | [mindset](https://belalelolahi.github.io/Reading-Notes/Mindset)
