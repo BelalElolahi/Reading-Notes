@@ -75,7 +75,7 @@ Game of Greed 3| [Read08](https://belalelolahi.github.io/Reading-Notes/Read401:8
 Game of Greed 4| [Read09](https://belalelolahi.github.io/Reading-Notes/Read401:9)
 Stake and Queue| [Read10](https://belalelolahi.github.io/Reading-Notes/Read401:10)
 Data Analysis | [Read11](https://belalelolahi.github.io/Reading-Notes/Read401:11)
-| [Read12](https://belalelolahi.github.io/Reading-Notes/Read401:12)
+Pandas in python| [Read12](https://belalelolahi.github.io/Reading-Notes/Read401:12)
 | [Read13](https://belalelolahi.github.io/Reading-Notes/Read401:13)
 | [Read14](https://belalelolahi.github.io/Reading-Notes/Read401:14)
 | [Read15](https://belalelolahi.github.io/Reading-Notes/Read401:15)
