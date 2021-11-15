@@ -77,6 +77,7 @@ Stake and Queue| [Read10](https://belalelolahi.github.io/Reading-Notes/Read401:1
 Data Analysis | [Read11](https://belalelolahi.github.io/Reading-Notes/Read401:11)
 Pandas in python| [Read12](https://belalelolahi.github.io/Reading-Notes/Read401:12)
 Linear Regressions| [Read13](https://belalelolahi.github.io/Reading-Notes/Read401:13)
+
 | [Read14](https://belalelolahi.github.io/Reading-Notes/Read401:14)
 | [Read15](https://belalelolahi.github.io/Reading-Notes/Read401:15)
 | [Read16](https://belalelolahi.github.io/Reading-Notes/Read401:16)
