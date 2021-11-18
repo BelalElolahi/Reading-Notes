@@ -78,8 +78,8 @@ Data Analysis | [Read11](https://belalelolahi.github.io/Reading-Notes/Read401:11
 Pandas in python| [Read12](https://belalelolahi.github.io/Reading-Notes/Read401:12)
 Linear Regressions| [Read13](https://belalelolahi.github.io/Reading-Notes/Read401:13)
 Data Visualization| [Read14](https://belalelolahi.github.io/Reading-Notes/Read401:14)
+Trees| [Read15](https://belalelolahi.github.io/Reading-Notes/Read401:15)
 
-| [Read15](https://belalelolahi.github.io/Reading-Notes/Read401:15)
 | [Read16](https://belalelolahi.github.io/Reading-Notes/Read401:16)
 | [Read11](https://belalelolahi.github.io/Reading-Notes/Read401:11)
 | [Read11](https://belalelolahi.github.io/Reading-Notes/Read401:11)
