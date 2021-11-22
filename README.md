@@ -81,8 +81,7 @@ Data Visualization| [Read14](https://belalelolahi.github.io/Reading-Notes/Read40
 Trees| [Read15](https://belalelolahi.github.io/Reading-Notes/Read401:15)
 Machine Learning Intro | [Read16](https://belalelolahi.github.io/Reading-Notes/Read401:16)
 Web Scraping| [Read17](https://belalelolahi.github.io/Reading-Notes/Read401:17)
-
-| [Read18](https://belalelolahi.github.io/Reading-Notes/Read401:18)
+Automation| [Read18](https://belalelolahi.github.io/Reading-Notes/Read401:18)
 | [Read19](https://belalelolahi.github.io/Reading-Notes/Read401:19)
 | [Read20](https://belalelolahi.github.io/Reading-Notes/Read401:20)
 
