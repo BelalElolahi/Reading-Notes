@@ -83,9 +83,9 @@ Machine Learning Intro | [Read16](https://belalelolahi.github.io/Reading-Notes/R
 Web Scraping| [Read17](https://belalelolahi.github.io/Reading-Notes/Read401:17)
 Automation| [Read18](https://belalelolahi.github.io/Reading-Notes/Read401:18)
 Cryptography| [Read18](https://belalelolahi.github.io/Reading-Notes/Read401:18a)
-Django| [Read19](https://belalelolahi.github.io/Reading-Notes/Read401:19)
+intro to Django| [Read19](https://belalelolahi.github.io/Reading-Notes/Read401:19)
+Django Models| [Read20](https://belalelolahi.github.io/Reading-Notes/Read401:20)
 
-| [Read20](https://belalelolahi.github.io/Reading-Notes/Read401:20)
 | [Read21](https://belalelolahi.github.io/Reading-Notes/Read401:21)
 | [Read22](https://belalelolahi.github.io/Reading-Notes/Read401:22)
 | [Read23](https://belalelolahi.github.io/Reading-Notes/Read401:23)
