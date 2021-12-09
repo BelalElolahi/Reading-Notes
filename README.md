@@ -87,8 +87,8 @@ intro to Django| [Read19](https://belalelolahi.github.io/Reading-Notes/Read401:1
 Django Models| [Read20](https://belalelolahi.github.io/Reading-Notes/Read401:20)
 Django CRUD and Forms| [Read21](https://belalelolahi.github.io/Reading-Notes/Read401:21)
 Django Custom User| [Read22](https://belalelolahi.github.io/Reading-Notes/Read401:22)
+Hash Tables | [Read23](https://belalelolahi.github.io/Reading-Notes/Read401:23)
 
-| [Read23](https://belalelolahi.github.io/Reading-Notes/Read401:23)
 | [Read24](https://belalelolahi.github.io/Reading-Notes/Read401:24)
 | [Read25](https://belalelolahi.github.io/Reading-Notes/Read401:25)
 
