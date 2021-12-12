@@ -89,14 +89,12 @@ Django CRUD and Forms| [Read21](https://belalelolahi.github.io/Reading-Notes/Rea
 Django Custom User| [Read22](https://belalelolahi.github.io/Reading-Notes/Read401:22)
 Hash Tables | [Read23](https://belalelolahi.github.io/Reading-Notes/Read401:23)
 Django REST Framework & Docker | [Read24](https://belalelolahi.github.io/Reading-Notes/Read401:24)
-
-| [Read25](https://belalelolahic.github.io/Reading-Notes/Read401:25)
-| [Read25](https://belalelolahic.github.io/Reading-Notes/Read401:25)
-| [Read25](https://belalelolahic.github.io/Reading-Notes/Read401:25)
-| [Read25](https://belalelolahic.github.io/Reading-Notes/Read401:25)
-| [Read25](https://belalelolahic.github.io/Reading-Notes/Read401:25)
-| [Read25](https://belalelolahic.github.io/Reading-Notes/Read401:25)
-| [Read25](https://belalelolahic.github.io/Reading-Notes/Read401:25)
+Permissions & Postgresql| [Read25](https://belalelolahic.github.io/Reading-Notes/Read401:25)
+| [Read26](https://belalelolahic.github.io/Reading-Notes/Read401:26)
+| [Read27](https://belalelolahic.github.io/Reading-Notes/Read401:27)
+| [Read28](https://belalelolahic.github.io/Reading-Notes/Read401:28)
+| [Read29](https://belalelolahic.github.io/Reading-Notes/Read401:29)
+| [Read30](https://belalelolahic.github.io/Reading-Notes/Read401:30)
 
 
 
