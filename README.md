@@ -90,8 +90,8 @@ Django Custom User| [Read22](https://belalelolahi.github.io/Reading-Notes/Read40
 Hash Tables | [Read23](https://belalelolahi.github.io/Reading-Notes/Read401:23)
 Django REST Framework & Docker | [Read24](https://belalelolahi.github.io/Reading-Notes/Read401:24)
 Permissions & Postgresql| [Read25](https://belalelolahi.github.io/Reading-Notes/Read401:25)
+Authentication & Production Server| [Read26](https://belalelolahi.github.io/Reading-Notes/Read401:26)
 
-| [Read26](https://belalelolahi.github.io/Reading-Notes/Read401:26)
 | [Read27](https://belalelolahi.github.io/Reading-Notes/Read401:27)
 | [Read28](https://belalelolahi.github.io/Reading-Notes/Read401:28)
 | [Read29](https://belalelolahi.github.io/Reading-Notes/Read401:29)
