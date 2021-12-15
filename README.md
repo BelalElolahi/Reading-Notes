@@ -92,8 +92,8 @@ Django REST Framework & Docker | [Read24](https://belalelolahi.github.io/Reading
 Permissions & Postgresql| [Read25](https://belalelolahi.github.io/Reading-Notes/Read401:25)
 Authentication & Production Server| [Read26](https://belalelolahi.github.io/Reading-Notes/Read401:26)
 API Deployment | [Read27](https://belalelolahi.github.io/Reading-Notes/Read401:27)
+Graphs| [Read28](https://belalelolahi.github.io/Reading-Notes/Read401:28)
 
-| [Read28](https://belalelolahi.github.io/Reading-Notes/Read401:28)
 | [Read29](https://belalelolahi.github.io/Reading-Notes/Read401:29)
 | [Read30](https://belalelolahi.github.io/Reading-Notes/Read401:30)
 
