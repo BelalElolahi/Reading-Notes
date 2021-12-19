@@ -94,7 +94,17 @@ Authentication & Production Server| [Read26](https://belalelolahi.github.io/Read
 API Deployment | [Read27](https://belalelolahi.github.io/Reading-Notes/Read401:27)
 Graphs| [Read28](https://belalelolahi.github.io/Reading-Notes/Read401:28)
 DSA Review| [Read29](https://belalelolahi.github.io/Reading-Notes/Read401:29)
-| [Read30](https://belalelolahi.github.io/Reading-Notes/Read401:30)
+React| [Read30](https://belalelolahi.github.io/Reading-Notes/Read401:30)
+
+| [Read31](https://belalelolahi.github.io/Reading-Notes/Read401:31)
+| [Read32](https://belalelolahi.github.io/Reading-Notes/Read401:32)
+| [Read33](https://belalelolahi.github.io/Reading-Notes/Read401:33)
+| [Read34](https://belalelolahi.github.io/Reading-Notes/Read401:34)
+| [Read35](https://belalelolahi.github.io/Reading-Notes/Read401:35)
+| [Read36](https://belalelolahi.github.io/Reading-Notes/Read401:36)
+| [Read37](https://belalelolahi.github.io/Reading-Notes/Read401:37)
+| [Read38](https://belalelolahi.github.io/Reading-Notes/Read401:38)
+
 
 
 
