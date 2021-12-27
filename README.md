@@ -98,10 +98,8 @@ React 1 | [Read30](https://belalelolahi.github.io/Reading-Notes/Read401:30)
 React 2 | [Read31](https://belalelolahi.github.io/Reading-Notes/Read401:31)
 React 3 | [Read32](https://belalelolahi.github.io/Reading-Notes/Read401:32)
 React 4 | [Read33](https://belalelolahi.github.io/Reading-Notes/Read401:33)
-
-
-| [Read34](https://belalelolahi.github.io/Reading-Notes/Read401:34)
-| [Read35](https://belalelolahi.github.io/Reading-Notes/Read401:35)
+Pythonisms| [Read34](https://belalelolahi.github.io/Reading-Notes/Read401:34)
+Open-Source Software Contribution| [Read35](https://belalelolahi.github.io/Reading-Notes/Read401:35)
 | [Read36](https://belalelolahi.github.io/Reading-Notes/Read401:36)
 | [Read37](https://belalelolahi.github.io/Reading-Notes/Read401:37)
 | [Read38](https://belalelolahi.github.io/Reading-Notes/Read401:38)
